@@ -1,12 +1,11 @@
 {
-  "name": "e2",
+  "name": "proyecto_backend-desafio3",
   "version": "1.0.0",
-  "description": "",
-  "main": "productManager.js",
+  "description": "Proyecto del curso backend en Coder",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC"
 }

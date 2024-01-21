@@ -1,2 +1,2 @@
-# proyecto_backend_desafio2
-Proyecto backend - desafío 2
+# proyecto_backend
+Proyecto del curso backend en Coder
